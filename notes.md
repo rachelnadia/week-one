@@ -2,7 +2,7 @@
 
 Learning how to use Chrome
 downloading all of the extensions was a little difficult because I usually use Microsoft Edge
-goinng to use Chrome for everything now, way easier!
+going to use Chrome for everything now, way easier!
 
 ![image i just uploaded](ChromeSettings.png)
 
