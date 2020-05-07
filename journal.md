@@ -9,3 +9,8 @@ That is why I am excited to be here. I am excited to expand my skills using digi
 ## Introduction to the Digital Tools
 
 Starting right from the basics, I realized that Chrome is the browser I needed to use to use all of the extensions for this course, but also to be more successful in other areas of research. I am slightly ashamed to admit that I always use to use Microsoft Edge. However, I am now aware of the potential of Chrome and will continue to use it exclusively in the future.
+Before I could start with any of the digital tools, I played around with my Chrome settings.
+
+![image i just uploaded](ChromeSettings.png)
+
+Luckily, I found this pretty simple to do!
