@@ -13,7 +13,7 @@ I like Zotero
 again, easy to use
 definitely going to use it for assignments in other disciplines for its use for bibliographic info alone
 
-Already had a discord account so joining dscord was not difficult
+Already had a discord account so joining discord was not difficult
 
 Github gave me trouble
 Setting up Week two I forgot to initialize
