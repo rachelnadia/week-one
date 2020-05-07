@@ -22,3 +22,4 @@ Setting up Week two I forgot to initialize
 
 I tried to follow the steps laid out to fix and ended up here
 
+![image i just uploaded](Issue1.1.png)
