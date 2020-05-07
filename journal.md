@@ -30,3 +30,17 @@ Zotero is by far my favourite digital tool I learned about this week. I download
 ### Github
 
 Github is where I ran into trouble. I followed the directions on the syllabus for al setup, but when creating my repository for week two I forgot to initialize it.
+Just as the instructions showed, I ran into this:
+
+![image i just uploaded](Issue1.png)
+
+I tried to follow the instructions in the syllabus for fixing this. I ended up with a code box and copied the code in as such:
+
+![image i just uploaded](Issue1.1.png)
+
+However, I ended up with an error and nothing on my Github changed.
+I decided to give it a bit of a break. When I returned later, I played around with some of the features on Github. I realized I needed to click on README in order to copy the error code.
+
+![image i just uploaded](Issue1.2.jpg)
+
+Luckily, this worked and I was successful in initializing this repository.
