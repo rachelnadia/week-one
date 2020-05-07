@@ -16,3 +16,6 @@ definitely going to use it for assignments in other disciplines for its use for 
 Already had a discord account so joining dscord was not difficult
 
 Github gave me trouble
+Setting up Week two I forgot to initialize
+
+![image i just uploaded](Screenshot 2020-05-04 14.58.17)
