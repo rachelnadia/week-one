@@ -18,4 +18,4 @@ Already had a discord account so joining discord was not difficult
 Github gave me trouble
 Setting up Week two I forgot to initialize
 
-![image i just uploaded](Screenshot 2020-05-04 14.58.17.png)
+![image i just uploaded](Issue1.png)
