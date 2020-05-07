@@ -57,4 +57,8 @@ One concept from the readings that struck with me is the idea of open access. In
 
 However, one quote that I latched onto was from Robert Darnton in the article "History Can Be Open Source: Democratic Dreams and the Rise of Digital History". He said, "Yes, we must digitize. But more important, we must democratize". The democratization of historical work breaks down different sociological barriers that limit access to works.
 
-This links to the article on women in digital history. Not only is access to work limited, but credit for works is not being given. 
+This links to the article on women in digital history. Not only is access to work limited, but credit for works is not being given. This made me think about my own field of work. Journalism was once a male-dominated profession; however, my graduating class in 20201 will have many more female journalism graduates than males. It is interesting to analyze this shift that has occured in many disciplines.
+
+It also brings up the fact that research and works are not produced inside a vaccuum. There is always someone whose job has allowed you to produce the work you do. This only increases in the digital realm. So how much credit needs to be given to whom? It is a difficult question to answer. But one thing I have noticed is even as humans are isolated physically right now, the access to digital resources and digital work is bringing us closer together than ever. 
+
+Finally, I am still not sure exactly where I want to go with digital history. But I am excited to continue using the tools to expand my research techniques and collaboration with other peers and academics. All in all, these are skills that will help me in a journalism profession in the future. 
