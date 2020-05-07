@@ -39,8 +39,22 @@ I tried to follow the instructions in the syllabus for fixing this. I ended up w
 ![image i just uploaded](Issue1.1.png)
 
 However, I ended up with an error and nothing on my Github changed.
-I decided to give it a bit of a break. When I returned later, I played around with some of the features on Github. I realized I needed to click on README in order to copy the error code.
+I decided to give it a bit of a break. When I returned later, I played around with some of the features on Github. I realized I needed to click on README in order to copy the error code from the command line.
 
 ![image i just uploaded](Issue1.2.jpg)
 
 Luckily, this worked and I was successful in initializing this repository.
+
+Overall, I ran into few issue this week setting up these digital tools. I find each one very useful in its own unique way and look forward to exploring each one further on my own time.
+
+## Introduction to Digital History
+
+Okay, so I will admit that I did not really read the description for this course before registering in it. I assumed it would be a theoretical course studying important people and projects in digital history. I did not realize that we would be learning about how to use digital tools in order to be able to produce digital history. I am glad however, that the course is what is is and not what I expected. 
+
+Before looking at the material for this week, I thought digital history was the way in which the history was researched. I didn't think of the side of repurposing historical work for the digital relam. I think this is a very important aspect that has relavence to most disciplines in the present day.
+
+One concept from the readings that struck with me is the idea of open access. In the modern day, producing works of digital history make them more accessible. No longer is the work about who produced it at what institution, rather who has access to it and who will benefit from the work. I think this has a lot of relavence to the modern day especially right now when everyone is isolated due to COVID-19. Digitization not only changes what we have access to, but it also changes the way we read works. Digitization in different forms with different images and texts can provide a different tone than physical works. I think this is an important realization of what can be done online.
+
+However, one quote that I latched onto was from Robert Darnton in the article "History Can Be Open Source: Democratic Dreams and the Rise of Digital History". He said, "Yes, we must digitize. But more important, we must democratize". The democratization of historical work breaks down different sociological barriers that limit access to works.
+
+This links to the article on women in digital history. Not only is access to work limited, but credit for works is not being given. 
