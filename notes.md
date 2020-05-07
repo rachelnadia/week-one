@@ -19,3 +19,6 @@ Github gave me trouble
 Setting up Week two I forgot to initialize
 
 ![image i just uploaded](Issue1.png)
+
+I tried to follow the steps laid out to fix and ended up here
+
