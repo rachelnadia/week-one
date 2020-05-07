@@ -6,3 +6,6 @@ One thing I feel like I have fallen short on in my acedemic experience, is becom
 However, each time a course brings up a new digital tool or database, I enjoy learning how to use it.
 That is why I am excited to be here. I am excited to expand my skills using digital tools to help me with research and in other areas of academia.
 
+## Introduction to the Digital Tools
+
+Starting right from the basics, I realized that Chrome is the browser I needed to use to use all of the extensions for this course, but also to be more successful in other areas of research. I am slightly ashamed to admit that I always use to use Microsoft Edge. However, I am now aware of the potential of Chrome and will continue to use it exclusively in the future.
